@@ -76,3 +76,7 @@ class CheckoutFaildView(View):
 
     def post(self, request, *args, **kwargs):
         return render(request, self.template_name)
+
+
+def rudrita_rahman():
+    pass
