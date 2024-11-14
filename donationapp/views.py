@@ -76,3 +76,8 @@ class CheckoutFaildView(View):
 
     def post(self, request, *args, **kwargs):
         return render(request, self.template_name)
+
+
+def nur_hossain():
+    mylist=[1,2,3]
+    pass
