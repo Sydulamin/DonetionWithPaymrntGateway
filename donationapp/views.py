@@ -79,4 +79,4 @@ class CheckoutFaildView(View):
 
 
 def new_pass_function(request):
-    pass dir
+    pass
